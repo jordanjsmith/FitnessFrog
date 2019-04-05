@@ -1,2 +1,2 @@
 # FitnessFrog
-Simple Crud App
+Basic Crud App
